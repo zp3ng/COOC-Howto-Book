@@ -1,6 +1,7 @@
 {
-	"title":"COOC 使用教程",
-	"description":"COOC 使用教程电子书",
-	"plugins" : ["livereload"]
-
+    "title": "COOC 使用教程",
+    "description": "COOC 使用教程电子书",
+    "plugins": [
+        "livereload"
+    ]
 }
