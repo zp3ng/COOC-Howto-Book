@@ -10,3 +10,19 @@
 ![创建仓库](images/create-reponsitory.png)
 
 # 3.打开自动生成网页功能
+点击`Settings`，在接下来的页面点击`Launch automatic page generator`。    
+![Settings](images/settings.png) ![Launch automatic page generator](images/automatic.png)
+
+# 4.编辑网页
+编辑网页标题、内容等，完成后点击`Continue to layouts`选择网页的样式。
+![编辑](images/edit.png)
+
+# 5.选择网页样式
+在上方选择样式，下方可以预览当前选择的样式，如果对内容不满意可以点击`Edit`编辑，完成后点击`Publish page`发布网页。
+![样式](images/layouts.png)
+
+# 6.访问网站
+发布后可通过http://username.github.io/ 访问你的网站   
+![访问网站](images/site.png)
+   
+   使用自动生成网页功能建立网站非常简单，但是修改起来比较麻烦，需要掌握一些网站前端的知识，因此推荐使用[基于Jekyll自定义网站](jekyll.md)
