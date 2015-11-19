@@ -3,6 +3,7 @@
 ## 1.相关内容介绍
 
 #### (1)GitHub
+GitHub是目前全球最流行的开源协作社区，目前，除了Git代码仓库托管及基本的Web管理界面以外，还提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。正因为这些功能所提供的便利，又经过长期的积累，GitHub的用户活跃度很高，在开源世界里享有深远的声望，形成了所谓的社交化编程文化（Social Coding）。
 
 #### (2)Jekyll
 
@@ -47,3 +48,17 @@
 这时打开浏览器，输入 http://127.0.0.1:4000 就可以看到网站了，然而此时只能在我们自己的电脑上浏览到网站，其他地方的其他人并不能通过这个链接访问这个网站，要想让其他人也能访问就需要借助GitHub了。   
 5. 打开GitHub客户端，点击“username.github.io（username为你的GitHub用户名）”这个仓库，再点击右上角的设置按钮，选择`Reponsitory settings`，然后在remote中输入之前在GitHub上创建的仓库的地址，点击OK保存。   
 6. 再点击右侧面板中的`Changes`，在下方的Summary中输入提交信息（如init）后点击`Commit to master`，再点击右上方的`Publish`，此时这个本地的仓库就被同步到GitHub中的仓库里去了，同时，你和其他人也可以通过 http://username.github.io （username为你的GitHub用户名）这个地址访问你的网站了
+
+## 4.写课程
+
+1.在_post文件夹中创建一个Markdown文件，命名规则为：`年-月-日-文件名（不能为中文）`，如：2015-11-19-github-jekyll-course.md   
+2.在刚才创建的课程页面文件中加入以下头信息
+<pre>
+    ---
+    layout: post
+    title:  "课程名，如：GitHub搭配Jekyll，创建COOC课程网站（以Windows平台为例）"
+    date:   创建时间，格式为：2015-11-19 14:43:48 +0800
+    ---
+</pre>
+3.接下里就可以按Markdown格式自由书写课程内容了
+[Markdown格式标准](http://wowubuntu.com/markdown/)
