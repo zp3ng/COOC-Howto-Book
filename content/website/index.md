@@ -36,7 +36,7 @@ GitHub是目前全球最流行的开源协作社区，非常适合许多人，�
 
 1. 还是在`Start Command Prompt with Ruby`中，运行`cd username.github.io（username为你的GitHub用户名）`，进入刚才创建的仓库。  
 2. 运行`jekyll new .`，`.`代表当前文件夹，这是这个仓库文件夹里会生成Jekyll相关的文件及文件夹，该文件夹下的_config.   yml文件为该站点的配置文件，_posts文件夹里放的就是Mardkdown文件，也就是每一个网页的文件。
-3. 在Windows文件管理中打开COOC文件夹，打开_config.yml配置站点信息：
+3. 在Windows文件管理中打开username.github.io文件夹，打开_config.yml配置站点信息：
 <pre>
 	<code>
 	title:网站的标题
@@ -51,8 +51,8 @@ GitHub是目前全球最流行的开源协作社区，非常适合许多人，�
 
 4. 运行`jekyll serve`（按Ctrl+C停止）    
 这时打开浏览器，输入 http://127.0.0.1:4000 就可以看到网站了，然而此时只能在我们自己的电脑上浏览到网站，其他地方的其他人并不能通过这个链接访问这个网站，要想让其他人也能访问就需要借助GitHub了。   
-5. 打开GitHub客户端，点击“username.github.io（username为你的GitHub用户名）”这个仓库，再点击右上角的设置按钮，选择`Reponsitory settings`，然后在remote中输入之前在GitHub上创建的仓库的地址，点击OK保存。   
-6. 再点击右侧面板中的`Changes`，在下方的Summary中输入提交信息（如init）后点击`Commit to master`，再点击右上方的`Publish`，此时这个本地的仓库就被同步到GitHub中的仓库里去了，同时，你和其他人也可以通过 http://username.github.io （username为你的GitHub用户名）这个地址访问你的网站了
+5. 打开GitHub客户端，点击“username.github.io”这个仓库，再点击右上角的设置按钮，选择`Reponsitory settings`，然后在remote中输入之前在GitHub上创建的仓库的地址，点击OK保存。   
+6. 再点击右侧面板中的`Changes`，在下方的Summary中输入提交信息（如init）后点击`Commit to master`，再点击右上方的`Publish`，此时这个本地的仓库就被同步到GitHub中的仓库里去了，同时，你和其他人也可以通过 http://username.github.io 这个地址访问你的网站了
 
 ## 4.写课程
 
