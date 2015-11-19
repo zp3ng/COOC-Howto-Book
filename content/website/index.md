@@ -39,13 +39,13 @@ GitHub是目前全球最流行的开源协作社区，非常适合许多人，�
 3. 在Windows文件管理中打开COOC文件夹，打开_config.yml配置站点信息：
 <pre>
 	<code>
-	    title:网站的标题
-	    email:网站作者的邮箱
-	    description:该网站的一些描述，主要是搜索引擎检索网站使用
-	    baseurl:网站的根目录（默认即可）
-	    url:网站的域名
-	    github_uername:网站作者的GitHub的用户名
-	    其他信息忽略，配置完成之后保存。
+	title:网站的标题
+	email:网站作者的邮箱
+	description:该网站的一些描述，主要是搜索引擎检索网站使用
+	baseurl:网站的根目录（默认即可）
+	url:网站的域名
+	github_uername:网站作者的GitHub的用户名
+	其他信息忽略，配置完成之后保存。
 	</code>
 </pre>
 
