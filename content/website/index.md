@@ -53,12 +53,12 @@ GitHub是目前全球最流行的开源协作社区，目前，除了Git代码�
 
 1.在_post文件夹中创建一个Markdown文件，命名规则为：`年-月-日-文件名（不能为中文）`，如：2015-11-19-github-jekyll-course.md   
 2.在刚才创建的课程页面文件中加入以下头信息
-<code>
+
     ---
     layout: post
     title:  "课程名，如：GitHub搭配Jekyll，创建COOC课程网站（以Windows平台为例）"
     date:   创建时间，格式为：2015-11-19 14:43:48 +0800
     ---
-</code>
+
 3.接下里就可以按Markdown格式自由书写课程内容了
 [Markdown格式标准](http://wowubuntu.com/markdown/)
