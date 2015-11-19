@@ -46,6 +46,7 @@ GitHub是目前全球最流行的开源协作社区，目前，除了Git代码�
     github_uername:网站作者的GitHub的用户名
     其他信息忽略，配置完成之后保存。
 
+
 4. 运行`jekyll serve`（按Ctrl+C停止）    
 这时打开浏览器，输入 http://127.0.0.1:4000 就可以看到网站了，然而此时只能在我们自己的电脑上浏览到网站，其他地方的其他人并不能通过这个链接访问这个网站，要想让其他人也能访问就需要借助GitHub了。   
 5. 打开GitHub客户端，点击“username.github.io（username为你的GitHub用户名）”这个仓库，再点击右上角的设置按钮，选择`Reponsitory settings`，然后在remote中输入之前在GitHub上创建的仓库的地址，点击OK保存。   
