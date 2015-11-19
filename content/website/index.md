@@ -3,11 +3,11 @@
 ## 1.相关内容介绍
 
 #### (1)GitHub
-GitHub是目前全球最流行的开源协作社区，目前，除了Git代码仓库托管及基本的Web管理界面以外，还提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。正因为这些功能所提供的便利，又经过长期的积累，GitHub的用户活跃度很高，在开源世界里享有深远的声望，形成了所谓的社交化编程文化（Social Coding）。
+GitHub是目前全球最流行的开源协作社区，非常适合许多人，甚至是互不认识的人合作开发同一款产品
 
 #### (2)Jekyll
 
-[Jekyll](http://jekyll.bootcss.com/)是一种简单的、适用于博客的、静态网站生成引擎。它使用一个模板目录作为网站布局的基础框架，支持Markdown、Textile等标记语言的解析，提供了模板、变量、插件等功能，最终生成一个完整的静态Web站点。说白了就是，只要安装Jekyll的规范和结构，不用写HTML，就可以生成网站
+[Jekyll](http://jekyll.bootcss.com/)是一种简单的、静态网站生成引擎。它使用一个模板目录作为网站布局的基础框架，支持Markdown、Textile等标记语言的解析，提供了模板、变量、插件等功能，最终生成一个完整的静态Web站点。说白了就是，只要安装Jekyll的规范和结构，不用写HTML，就可以生成网站。
 
 ## 2.环境搭建
 
@@ -37,15 +37,17 @@ GitHub是目前全球最流行的开源协作社区，目前，除了Git代码�
 1. 还是在`Start Command Prompt with Ruby`中，运行`cd username.github.io（username为你的GitHub用户名）`，进入刚才创建的仓库。  
 2. 运行`jekyll new .`，`.`代表当前文件夹，这是这个仓库文件夹里会生成Jekyll相关的文件及文件夹，该文件夹下的_config.   yml文件为该站点的配置文件，_posts文件夹里放的就是Mardkdown文件，也就是每一个网页的文件。
 3. 在Windows文件管理中打开COOC文件夹，打开_config.yml配置站点信息：
-
-    title:网站的标题
-    email:网站作者的邮箱
-    description:该网站的一些描述，主要是搜索引擎检索网站使用
-    baseurl:网站的根目录（默认即可）
-    url:网站的域名
-    github_uername:网站作者的GitHub的用户名
-    其他信息忽略，配置完成之后保存。
-
+<pre>
+	<code>
+	    title:网站的标题
+	    email:网站作者的邮箱
+	    description:该网站的一些描述，主要是搜索引擎检索网站使用
+	    baseurl:网站的根目录（默认即可）
+	    url:网站的域名
+	    github_uername:网站作者的GitHub的用户名
+	    其他信息忽略，配置完成之后保存。
+	</code>
+</pre>
 
 4. 运行`jekyll serve`（按Ctrl+C停止）    
 这时打开浏览器，输入 http://127.0.0.1:4000 就可以看到网站了，然而此时只能在我们自己的电脑上浏览到网站，其他地方的其他人并不能通过这个链接访问这个网站，要想让其他人也能访问就需要借助GitHub了。   
@@ -54,7 +56,7 @@ GitHub是目前全球最流行的开源协作社区，目前，除了Git代码�
 
 ## 4.写课程
 
-1.在_post文件夹中创建一个Markdown文件，命名规则为：`年-月-日-文件名（不能为中文）`，如：2015-11-19-github-jekyll-course.md   
+1.在_post文件夹中创建一个Markdown文件，命名规则为：`年-月-日-文件名（不能为中文）.md`，如：2015-11-19-github-jekyll-course.md   
 2.在刚才创建的课程页面文件中加入以下头信息
 
     ---
