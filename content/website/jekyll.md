@@ -22,28 +22,28 @@
 
 
 #### (2)Jekyll
-1.下载并安装最新的[Rubyinstaller](http://files.bryanbibat.net/rails-ftw-v0.21-2.1.6-4.2.3.exe)，注意！安装时勾选`Add Ruby executables to your PATH`，且安装路径不能包含空格。
-2.安装完成后从开始菜单打开`Start Command Prompt with Ruby`
-3.运行`gem sources`查看gem安装源列表
-4.运行`gem source -r 刚才看到的源`删除gem默认的官方源（因为官方源被墙）
-5.运行`gem source -a https://ruby.taobao.org`将官方源改成淘宝源
-6.运行`gem update system`更新一下gem
-7.运行`gem install jekyll`安装Jekyll，安装完成后运行`jekyll -veriosn`查看是否安装成功
+1.下载并安装最新的[Rubyinstaller](http://files.bryanbibat.net/rails-ftw-v0.21-2.1.6-4.2.3.exe)，注意！安装时勾选`Add Ruby executables to your PATH`，且安装路径不能包含空格。   
+2.安装完成后从开始菜单打开`Start Command Prompt with Ruby`   
+3.运行`gem sources`查看gem安装源列表   
+4.运行`gem source -r 刚才看到的源`删除gem默认的官方源（因为官方源被墙）   
+5.运行`gem source -a https://ruby.taobao.org`将官方源改成淘宝源   
+6.运行`gem update system`更新一下gem   
+7.运行`gem install jekyll`安装Jekyll，安装完成后运行`jekyll -veriosn`查看是否安装成功   
 ![安装Jekyll](images/jekyll_install.png)
 
 ## 3.初始化
 
-1. 还是在`Start Command Prompt with Ruby`中，运行`cd username.github.io（username为你的GitHub用户名）`，进入刚才创建的仓库。
-2. 运行`jekyll new .`，`.`代表当前文件夹，这是这个仓库文件夹里会生成Jekyll相关的文件及文件夹，该文件夹下的_config.yml文件为该站点的配置文件，_posts文件夹里放的就是Mardkdown文件，也就是每一个网页的文件。
+1. 还是在`Start Command Prompt with Ruby`中，运行`cd username.github.io（username为你的GitHub用户名）`，进入刚才创建的仓库。  
+2. 运行`jekyll new .`，`.`代表当前文件夹，这是这个仓库文件夹里会生成Jekyll相关的文件及文件夹，该文件夹下的_config.   yml文件为该站点的配置文件，_posts文件夹里放的就是Mardkdown文件，也就是每一个网页的文件。
 3. 在Windows文件管理中打开COOC文件夹，打开_config.yml配置站点信息：    
-    title:网站的标题
-    email:网站作者的邮箱
-    description:该网站的一些描述，主要是搜索引擎检索网站使用
-    baseurl:网站的根目录（默认即可）
-    url:网站的域名
-    github_uername:网站作者的GitHub的用户名
+    title:网站的标题   
+    email:网站作者的邮箱   
+    description:该网站的一些描述，主要是搜索引擎检索网站使用   
+    baseurl:网站的根目录（默认即可）   
+    url:网站的域名   
+    github_uername:网站作者的GitHub的用户名   
     其他信息忽略，配置完成之后保存。
 4. 运行`jekyll serve`（按Ctrl+C停止）    
-这时打开浏览器，输入 http://127.0.0.1:4000 就可以看到网站了，然而此时只能在我们自己的电脑上浏览到网站，其他地方的其他人并不能通过这个链接访问这个网站，要想让其他人也能访问就需要借助GitHub了。
-5. 打开GitHub客户端，点击“username.github.io（username为你的GitHub用户名）”这个仓库，再点击右上角的设置按钮，选择`Reponsitory settings`，然后在remote中输入之前在GitHub上创建的仓库的地址，点击OK保存。
+这时打开浏览器，输入 http://127.0.0.1:4000 就可以看到网站了，然而此时只能在我们自己的电脑上浏览到网站，其他地方的其他人并不能通过这个链接访问这个网站，要想让其他人也能访问就需要借助GitHub了。   
+5. 打开GitHub客户端，点击“username.github.io（username为你的GitHub用户名）”这个仓库，再点击右上角的设置按钮，选择`Reponsitory settings`，然后在remote中输入之前在GitHub上创建的仓库的地址，点击OK保存。   
 6. 再点击右侧面板中的`Changes`，在下方的Summary中输入提交信息（如init）后点击`Commit to master`，再点击右上方的`Publish`，此时这个本地的仓库就被同步到GitHub中的仓库里去了，同时，你和其他人也可以通过 http://username.github.io （username为你的GitHub用户名）这个地址访问你的网站了
