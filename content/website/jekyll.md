@@ -29,7 +29,7 @@
 5.运行`gem source -a https://ruby.taobao.org`将官方源改成淘宝源
 6.运行`gem update system`更新一下gem
 7.运行`gem install jekyll`安装Jekyll，安装完成后运行`jekyll -veriosn`查看是否安装成功
-![安装Jekyll](images/install_jekyll.png)
+![安装Jekyll](images/jekyll_install.png)
 
 ## 3.初始化
 
