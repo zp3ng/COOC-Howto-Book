@@ -18,7 +18,7 @@
 
 
 ### 安装Jekyll
-1.下载并安装最新的[Rubyinstaller](http://pan.baidu.com/s/1pJ1UgNT)，注意！安装时勾选`Add Ruby executables to your PATH`，且安装路径不能包含空格。   
+1.下载并安装最新的[Rubyinstaller](http://courses.b0.upaiyun.com/rails-ftw-v0.21-2.1.6-4.2.3.exe)，注意！安装时勾选`Add Ruby executables to your PATH`，且安装路径不能包含空格。   
 2.安装完成后从开始菜单打开`Start Command Prompt with Ruby`   
 3.运行`gem sources`查看gem安装源列表   
 4.运行`gem source -r 刚才看到的源`删除gem默认的官方源（因为官方源被墙）   
