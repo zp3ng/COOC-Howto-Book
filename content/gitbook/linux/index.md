@@ -1,4 +1,4 @@
-# 使用GitBook编写教材（Linux平台，以Ubuntu为例）
+# 基于GitHub、GitBook编写教材（Linux平台，以Ubuntu为例）
 ---
 
 ### 本章内容
