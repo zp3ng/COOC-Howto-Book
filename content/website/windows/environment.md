@@ -7,7 +7,8 @@
 ![注册GitHub1](../images/signup1.png)
 ![注册GitHub2](../images/signup2.png)
 2.在GitHub上建立一个远程仓库，仓库名规则：username.github.io（username为你的GitHub用户名）   
-![创建仓库](../images/create-reponsitory.png)
+![创建仓库](../images/create-reponsitory.png)   
+![远程仓库地址](../images/remote_rep_addr.png)   
 3.下载并安装[GitHub客户端](https://github-windows.s3.amazonaws.com/GitHubSetup.exe)   
 4.打开GitHub客户端，输入之前注册的GitHub账号登录，配置你的GIT（此处输入你姓名拼音和你的邮箱），然后点击`dashboard`   
 ![登录](../images/github_login.png)   

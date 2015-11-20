@@ -1,10 +1,10 @@
-# 使用GitBook编写教材（以Windows平台为例）
+# 使用GitBook编写教材（Windows平台）
 ---
 
 ### 本章内容
 
-* [GitBook介绍](gitbook.md)
-* [创建书并关联GitHub仓库](signup.md)
+* [GitBook介绍](../gitbook.md)
+* [创建书并关联GitHub仓库](../signup.md)
 * [安装环境、写作](write.md)
 
 ### 本章目标

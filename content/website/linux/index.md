@@ -5,6 +5,6 @@
 ###本章内容
 
 * [相关工具介绍](../introduce.md)
-* [环境搭建](environment.md)
-* [创建仓库](reponsitory.md)
-* [创建课程](course.md)
+* [环境搭建](linux_environment.md)
+* [创建仓库](linux_reponsitory.md)
+* [创建课程](linux_course.md)
