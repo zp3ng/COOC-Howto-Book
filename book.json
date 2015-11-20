@@ -2,6 +2,15 @@
     "title": "COOC 使用教程",
     "description": "COOC 使用教程电子书",
     "plugins": [
-        "livereload"
-    ]
+        "livereload",
+      	"disqus"
+    ],
+    "pluginsConfig": {
+    	"disqus": {
+    		"shortName": "githubpagesgitbooktutorialbook"
+    	}
+  	},
+    "styles": {
+        "website": "styles/website.css"
+    }
 }
