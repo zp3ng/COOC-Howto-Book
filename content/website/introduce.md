@@ -5,7 +5,6 @@
 ### GitHub
 
 GitHub是目前全球最流行的开源协作社区，非常适合许多人，甚至是互不认识的人合作开发同一款产品。   
-*建议在使用本教程之前先学习[Git相关知识](http://git-scm.com/book/zh/v2)*
 
 ### Jekyll
 

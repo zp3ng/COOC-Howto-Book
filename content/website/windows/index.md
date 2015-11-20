@@ -3,8 +3,8 @@
 
 ### 本章内容
 
-* [相关工具介绍](introduce.md)
-* [环境搭建并创建远程及本地仓库](environment.md)
+* [相关工具介绍](../introduce.md)
+* [环境搭建并创建仓库](environment.md)
 * [初始化Jekyll文件夹](init.md)
 * [创作课程](course.md)
 
