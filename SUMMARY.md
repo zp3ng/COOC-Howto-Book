@@ -1,7 +1,7 @@
 # Summary
 
 * [在GitHub上搭建课程网站（Windows平台）](/content/website/windows/index.md)
-	* [相关工具介绍](/content/website/linux/introduce.md)
+	* [相关工具介绍](/content/website/windows/introduce.md)
 	* [环境搭建并创建远程及本地仓库](/content/website/windows/environment.md)
 	* [初始化Jekyll文件夹](/content/website/windows/init.md)
 	* [创作课程](/content/website/windows/course.md)
