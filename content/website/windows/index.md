@@ -1,4 +1,5 @@
-# 基于GitHub、Jekyll搭建课程网站（Windows平台）
+使用 GitHub Pages 搭建课程网站（Windows平台）
+===
 ---
 
 ### 本章内容

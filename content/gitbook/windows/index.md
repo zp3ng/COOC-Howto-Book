@@ -1,4 +1,5 @@
-# 基于GitHub、GitBook编写教材（Windows平台）
+使用 GitHub 和 GitBook （Windows平台）
+===
 ---
 
 ### 本章内容

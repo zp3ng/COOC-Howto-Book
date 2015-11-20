@@ -1,4 +1,4 @@
-基于GitHub、Jekyll搭建课程网站（Linux平台，以Ubuntu为例）
+使用 GitHub Pages 搭建课程网站（Linux平台，以Ubuntu为例）
 ===
 ---
 
