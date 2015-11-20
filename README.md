@@ -1,4 +1,4 @@
-基于GitHub、Jekyll、GitBook建立课程网站、教材
+使用 GitHub Pages 和 GitBook 建立在线课程
 ============
 ---
 

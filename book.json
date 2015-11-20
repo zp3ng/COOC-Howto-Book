@@ -1,6 +1,6 @@
 {
-    "title": "COOC 使用教程",
-    "description": "COOC 使用教程电子书",
+    "title": "使用 GitHub Pages 和 GitBook 建立在线课程",
+    "description": "使用 GitHub Pages 和 GitBook 建立在线课程",
     "plugins": [
         "livereload"
     ]
