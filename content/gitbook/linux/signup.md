@@ -19,4 +19,3 @@
 ![Address](../images/book_github.png)         
 **现在已经将GitBook上书的仓库和GitHub上书的仓库关联起来了，以后既可以通过GitBook写书，也可以将更新提交到GitHub，极大的方便了多人协作撰写一本课本。**   
 **以后就可以通过https://username.gitbook.io/仓库名/ 在线阅读或下载图书。**   
-*下面介绍通过GitBook客户端撰写的方法。*
