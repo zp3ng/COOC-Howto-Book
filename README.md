@@ -6,4 +6,4 @@
 **Mac用户请参考Linux相应教程**
 
 ### 作者
-[Kinggo](https://github.com/kinggolzu)，[XieQirong](https://github.com/XieQirong)，[Aspire](https://prettyxw.com)，[mymusise](https://github.com/mymusise)，[AaronVon](https://github.com/AaronVon)
+[Kinggo（周庆国）](https://github.com/kinggolzu)，[XieQirong（谢启荣）](https://github.com/XieQirong)，[Aspire（彭璟文）](https://prettyxw.com)，[mymusise（郭城熙）](https://github.com/mymusise)，[AaronVon](https://github.com/AaronVon)
