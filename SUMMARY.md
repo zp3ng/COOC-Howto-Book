@@ -1,5 +1,5 @@
 # Summary
-
+* [课程简介](README.md)
 * [使用 GitHub Pages 搭建课程网站（Windows平台）](/content/website/windows/index.md)
 	* [相关工具介绍](/content/website/windows/introduce.md)
 	* [环境搭建并创建远程及本地仓库](/content/website/windows/environment.md)
