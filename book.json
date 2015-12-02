@@ -1,6 +1,19 @@
 {
     "title": "使用 GitHub Pages 和 GitBook 建立在线课程",
     "description": "使用 GitHub Pages 和 GitBook 建立在线课程",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "COOC China": "https://cooc-china.github.io/"
+        }
+    },
+    "language":"en",
     "plugins": [
         "livereload",
       	"disqus"
