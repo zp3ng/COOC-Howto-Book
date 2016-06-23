@@ -3,6 +3,7 @@
 ---
   
 **建议在使用本教程之前先学习[Git相关知识](http://git-scm.com/book/zh/v2)**   
+**按照指导，您将能得到如[Build your first App](https://cooc-china.gitbooks.io/build-your-first-app-course/content/)这样的协作式课程**
 **Mac用户请参考Linux相应教程**
 
 ### 作者
