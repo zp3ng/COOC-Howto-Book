@@ -31,7 +31,10 @@
 ![](image/exace_1.png)
 
 ## 引入协作
-首先在GitHub和GitBook上完成注册。登录到GitBook账户，在Account Settings页面中与GitHub进行关联。这样对于公共仓库，其它合作编写者就可以方便的利用GitHub提供的web接口进行分支和关于教程建设的话题讨论
+首先在GitHub和GitBook上完成注册。登录到GitBook账户，在Account Settings页面中与GitHub进行关联如下图。这样对于公共仓库，其它合作编写者就可以方便的利用GitHub提供的web接口进行分支和关于教程建设的话题讨论。
+
+![](image/cooperation.png)
+
 ## 发布到COOC
 首先在COOC主页的导航栏上点选“教程收录”，下图所示页面，在这个issue上发起编写号召，可以附上邮箱或者已经建立好的教程链接。
 
