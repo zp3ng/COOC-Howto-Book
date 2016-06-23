@@ -6,6 +6,6 @@
 **Mac用户请参考Linux相应教程**
 
 ### 作者
-[Kinggo（周庆国）](https://github.com/kinggolzu)，[XieQirong（谢启荣）](https://github.com/XieQirong)，[Aspire（彭璟文）](https://prettyxw.com)，[mymusise（郭城熙）](https://github.com/mymusise)，[AaronVon](https://github.com/AaronVon)
+[Kinggo（周庆国）](https://github.com/kinggolzu)，[XieQirong（谢启荣）](https://github.com/XieQirong)，[Aspire（彭璟文）](https://prettyxw.com)，[mymusise（郭城熙）](https://github.com/mymusise)，[AaronVon](https://github.com/AaronVon)，[Shadowkael(高成龙)](https://github.com/shadowkael)
 
 *此课程内容只用作示例，不是正式课程，如有侵权，请联系作者删除*
