@@ -14,17 +14,17 @@
 ![test1](/assets/test1.png)
 
 4.进入这本书中，先选中settings，然后复制下图中的gitbook中的地址，这个地址用于将这本书的URL传给github中的某个仓库中。
-![](/assets/test2.png)
+![test2](/assets/test2.png)
 
 5.进入网址[github.com/new/import](https://github.com/new/import)中,将刚才复制的地址复制到URL中，并创建一个github仓库，这样github就可以通过这个地址与gitbook进行同步。
 
-![创建书](../images/create_book.png)
+![test3](/assets/test3.png)
 
-6.将书的GitBook仓库与GitHub仓库关联
+6.点击import后，要输入你的github的账号和密码。
 
-![Link](../images/link_setting.png)
+![test4](/assets/test4.png)
 
-7.在GitHub的导入页，先点击`Check URL`，等待检查完成，选择`Public`，再点击`Begin import`。
+7.导入成功后，gitbook中的内容就导入到github中了。
 
 ![Check](../images/check.png)
 
