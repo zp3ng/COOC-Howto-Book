@@ -16,7 +16,7 @@
 4.进入这本书中，先选中settings，然后复制下图中的gitbook中的地址，这个地址用于将这本书的URL传给github中的某个仓库中。
 ![](/assets/test2.png)
 
-5.进入网址[github.com/new/import](https://github.com/new/import)中,将刚才复制的地址复制到URL中，并创建一个github仓库，这样github就可以通过这个地址与gitbook进行这本书的同步。
+5.进入网址[github.com/new/import](https://github.com/new/import)中,将刚才复制的地址复制到URL中，并创建一个github仓库，这样github就可以通过这个地址与gitbook进行同步。
 
 ![创建书](../images/create_book.png)
 
