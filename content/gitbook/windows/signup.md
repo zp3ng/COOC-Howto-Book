@@ -28,7 +28,7 @@
 
 ![test5](/assets/test5.png)
 
-8.建立了github与gitbook的联系以后，我们就可以安静的写书了，首先我们需要有Gitbook客户端，在客户端中编辑既方便又快捷，
+8.建立了github与gitbook的联系以后，我们就可以安静的写书了，首先我们需要有Gitbook客户端，在客户端中用markdown编辑既方便又快捷，我们首先需要将我们在云端的test这本书下载到本地，编辑后再将test上传到云端
 ![Address](../images/book_github.png)
 
 **现在已经将GitBook上书的仓库和GitHub上书的仓库关联起来了，以后既可以通过GitBook写书，也可以将更新提交到GitHub，极大的方便了多人协作撰写一本课本。**
