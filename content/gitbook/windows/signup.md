@@ -2,13 +2,13 @@
 
 ---
 
-1.打开[GitBook](https://www.gitbook.com)，输入相应信息，点击注册，登录注册邮箱确认。
+1.打开[GitBook](https://www.gitbook.com)，输入相应信息，点击注册，登录注册的邮箱进行确认。
 
-![注册](../images/signup.png)
 
+![test11](/assets/11.png)
 2.新建一个浏览器窗口并登录你的GitHub账号。
 
-3.回到Gitbook中创建一本新的书(create your first book)。
+3.回到Gitbook中创建一本新的书(create your first book)，书的名字为test。
 
 ![Account Settings](../images/account_setting.png)
 ![test1](/assets/test1.png)
@@ -20,7 +20,7 @@
 
 ![test3](/assets/test3.png)
 
-6.点击import后，要输入你的github的账号和密码。
+6.点击上图的Begin import后，要输入你的github的账号和密码。
 
 ![test4](/assets/test4.png)
 
@@ -29,7 +29,7 @@
 ![test5](/assets/test5.png)
 8.完成gitbook的导入后，只是将gitbook中的地址给了github，还需将github的地址给gitbook，此时我们就需要回到gitbook中，添加一下github对应的仓库，即我们第五步创建的test_android仓库。
 ![test7](/assets/test7.png)
-9.建立了github与gitbook的联系以后，我们就可以安静的写书了，首先我们需要有Gitbook客户端，在客户端中用markdown编辑既方便又快捷，我们首先需要将我们在云端的test这本书下载到本地，编辑后再将test上传到云端，下载如下图所示：
+9.建立了github与gitbook的联系以后，我们就可以安静的写书了，首先我们需要下载Gitbook客户端，在客户端中用markdown编辑既方便又快捷，我们首先需要将我们在云端的test这本书下载到本地，编辑后再将test上传到云端，下载如下图所示：
 ![test6](/assets/test6.png)
 10.进入这本书以后，就可以编辑了：
 ![test8](/assets/test8.png)
