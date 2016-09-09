@@ -26,9 +26,9 @@
 
 7.导入成功后，gitbook中的内容就导入到github中了。
 
-![Check](../images/check.png)
+![test5](/assets/test5.png)
 
-8.在授权页输入GitBook用户名和密码，授权。等待导入完成。完成后在GitHub里查看远程仓库的地址（图中红色线框处）
+8.建立了github与gitbook的联系以后，我们就可以安静的写书了，首先我们需要有Gitbook客户端，
 ![Address](../images/book_github.png)
 
 **现在已经将GitBook上书的仓库和GitHub上书的仓库关联起来了，以后既可以通过GitBook写书，也可以将更新提交到GitHub，极大的方便了多人协作撰写一本课本。**
