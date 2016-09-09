@@ -13,7 +13,7 @@
 ![Account Settings](../images/account_setting.png)
 ![test1](/assets/test1.png)
 
-4.在GitHub处选择`With access to public reponsitory
+4.进入这本书中，先选中settings，
 
 ![GitHub](../images/github.png)
 
