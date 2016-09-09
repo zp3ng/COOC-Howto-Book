@@ -12,7 +12,7 @@
 
 ![Account Settings](../images/account_setting.png)
 ![test1](/assets/test1.png)
-
+    
 4.进入这本书中，先选中settings，然后复制下图中的gitbook中的地址，这个地址用于将这本书的URL传给github中的某个仓库中。
 ![test2](/assets/test2.png)
 
