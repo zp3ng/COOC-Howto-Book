@@ -4,6 +4,7 @@
 * [准备工作](content/prepare_work.md)
 * [使用 GitHub 和 GitBook 编写教材（Windows平台）](content/gitbook/windows/index.md)
     * [GitBook介绍](content/gitbook/windows/gitbook.md)
+        * [Markdown语法简单介绍](content/gitbook/windows/markdown语法简单介绍.md)
     * [创建书并关联GitHub仓库](content/gitbook/windows/signup.md)
     * [安装环境、写作](content/gitbook/windows/write.md)
     * [嵌入视频、讲义等多媒体内容](content/gitbook/windows/嵌入视频、讲义等多媒体内容.md)
