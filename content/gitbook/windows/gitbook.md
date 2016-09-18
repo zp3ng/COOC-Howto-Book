@@ -31,5 +31,4 @@ SUMMARY.md
 	    * [example 2](section1/example2.md)
 	* [section 2](section2/README.md)
     	* [example 1](section2/example1.md)
-    	  
-不被 `SUMMARY.md` 包含的文件不会被 `GitBook` 处理.  
+    注意：一级标题用和二级标题的无序标记用“ +-*/ ”等符号表示，不被 `SUMMARY.md` 包含的文件不会被 `GitBook` 处理.  
