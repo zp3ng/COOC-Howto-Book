@@ -29,6 +29,7 @@
 ![test5](/assets/test5.png)
 8.完成gitbook的导入后，只是将gitbook中的地址给了github，还需将github的地址给gitbook，此时我们就需要回到gitbook中，添加一下github对应的仓库，即我们第五步创建的test_android仓库。
 ![test7](/assets/test7.png)
+9.这样就完成了gitbook与github的关联，但是大家有没有想过，为什么要将两者关联起来呢，
 9.建立了github与gitbook的联系以后，我们就可以安静的写书了，首先我们需要下载Gitbook客户端，在客户端中用markdown编辑既方便又快捷，我们首先需要将我们在云端的test这本书下载到本地，编辑后再将test上传到云端，下载如下图所示：
 ![test6](/assets/test6.png)
 10.进入这本书以后，就可以编辑了：
