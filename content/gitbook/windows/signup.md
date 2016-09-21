@@ -24,7 +24,7 @@
 
 ![test4](/assets/test4.png)
 
-7.导入成功后，gitbook中的内容就导入到github中了。
+7.导入成功后，gitbook这本书的地址就给了github中对应的仓库了。
 
 ![test5](/assets/test5.png)
 8.完成gitbook的导入后，只是将gitbook中的地址给了github，还需将github的地址给gitbook，此时我们就需要回到gitbook中，添加一下github对应的仓库，即我们第五步创建的test_android仓库。
