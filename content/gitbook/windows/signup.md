@@ -19,7 +19,10 @@
 ![](/assets/8001.png)
 工程内容如下：
 ![](/assets/8005.png)
-
+点击导入后就会进入导入界面：
+![](/assets/8007.png)
+导入成功后就会显示这本书的内容：
+![](/assets/8008.png)
 
 5.进入网址[https://github.com/new/import](https://github.com/new/import)中,将刚才复制的地址复制到URL中，并创建一个Github仓库，这样Github就可以通过这个地址与Gitbook进行同步。  
 ![picture117](/assets/图片7.png)
