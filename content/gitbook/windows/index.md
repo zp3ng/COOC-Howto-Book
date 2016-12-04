@@ -1,4 +1,4 @@
-# 使用 GitLab 和 GitBook （Windows平台）
+# 使用 Gitlab 和 GitBook （Windows平台）
 
 ---
 
