@@ -2,9 +2,9 @@
 
 * [课程简介](README.md)
 * [准备工作](content/prepare_work.md)
-* [使用 Gitlab 和 GitBook 编写教材（Windows平台）](content/gitbook/windows/index.md)
+* [使用 GitHub 和 GitBook 编写教材（Windows平台）](content/gitbook/windows/index.md)
     * [GitBook介绍](content/gitbook/windows/gitbook.md)
-    * [Git、Gitlab与Gitbook](content/gitbook/windows/git.md)
+    * [Git、GitHub与Gitbook](content/gitbook/windows/git.md)
     * [Markdown语法简单介绍](content/gitbook/windows/markdown语法简单介绍.md)
     * [创建书并关联Gitlab仓库](content/gitbook/windows/signup.md)
     * [安装环境、写作](content/gitbook/windows/write.md)
