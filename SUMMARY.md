@@ -7,6 +7,7 @@
     * [Git、GitHub与Gitbook](content/gitbook/windows/git.md)
     * [Markdown语法简单介绍](content/gitbook/windows/markdown语法简单介绍.md)
     * [创建书并关联Gitlab仓库](content/gitbook/windows/signup.md)
+    * [fork别人的仓库，pull request](content/gitbook/windows/fork别人的仓库，pull-request.md)
     * [安装环境、写作](content/gitbook/windows/write.md)
     * [嵌入视频、讲义等多媒体内容](content/gitbook/windows/嵌入视频、讲义等多媒体内容.md)
 * [使用 GitHub 和 GitBook 编写教材（Linux平台）](content/gitbook/linux/index.md)
