@@ -1,4 +1,4 @@
-# 使用 GitLab和 GitBook 建立在线课程
+# 使用 GitHub和 GitBook 建立在线课程
 
 ---
 
