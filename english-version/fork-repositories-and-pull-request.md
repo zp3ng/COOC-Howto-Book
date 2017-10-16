@@ -34,8 +34,6 @@ The “Configure” and “Repositories” steps we choose to "Skip"
 
 8.After fininshing the job,click on the top right corner of the“Save”，and then click ☁️ button.
 
-![picture129](/assets/图片19.png)
-
 9.Then in the dialog,fill in the github username and password,and click "Sync",at this time ,your job is synchronized in your "test_repository" repository,you need to pull request to the teacher from your repository.
 10.Open GitHub，get into the student's "test_repository" repository, then click "Pull requests"
 ![picture130](/assets/图片20.png)
