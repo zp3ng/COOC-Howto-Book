@@ -14,5 +14,6 @@
   * [创建书并关联GitHub仓库](content/gitbook/linux/signup.md)
   * [安装环境、写作](content/gitbook/linux/write.md)
 * [English Version](english-version.md)
+  * [Introduction of Gitbook](english-version/introduction-of-gitbook.md)
 * [嵌入视频、讲义等多媒体内容](content/gitbook/windows/嵌入视频、讲义等多媒体内容.md)
 
