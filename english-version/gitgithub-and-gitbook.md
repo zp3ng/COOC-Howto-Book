@@ -9,6 +9,8 @@
 ![](/assets/p1.png)
 
 • You have the plan A，and after discussion you change to B.Some hours later,you still feel the plan A is better,but at that time,you forgot to save it,so you need to change it throuth your memory.But in Github you don't need to worry,because it can record each version and put them into the repository,every change is one commit,so you can rollback to any version. 
-• 此外你还很可能遇到方案衍生的情况，在方案A的基础上，改出了一种方案B，又改出了一种方案C，可能还分别衍生出B1、B2及C1、C2，在GitHub里有分支（Branches）可以记录这种方案的分化过程。
 
-• 后来你觉得B1和C2方案中都有可取的地方，把它们融合一下就可以输出终稿了，Git里当然也支持这种分支合并(Merged)。
+• In addition you are likely to encounter the case of the derivative of the project.On the basis of scheme A，you change it to B or C，and sometimes B1、B2 or C1、C2,so the braches in github can record the procedure of this differentiation.
+
+
+• Later, you think the B1 and C2 programs are desirable,they can be integrated into the finalized,of course,Git can also support this branch merge.
