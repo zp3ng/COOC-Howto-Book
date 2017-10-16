@@ -28,22 +28,21 @@ choose sign in with Github
 8.However,we have to give Gitbook the Github address.So we get back to Gitbook,add the repository for Github，it is "test_repository" we create at the fifth step.This completes the two-way communication between Gitbook and Github.
 ![picture119](/assets/图片9.png)
 
-9.This completes the association of gitbook and github,using gitbook to write a book is enough,so why connect it with github?This is because github can be collaborative,for example,one book can be written by many writers,xiaohui is writing the book,and at the same time,xiaoqiang is writing as well.So github can know when and where who change the book,and change where.What's more,github can set permissions,for example,xiaohui is the creater and owner of the book,he wants to invite xiaoqiang to edit the book,so he can give the permission to xiaoqiang,then xiaoqiang have the authority to write this book.As following:
+9.(This step is optional )This completes the association of gitbook and github,using gitbook to write a book is enough,so why connect it with github?This is because github can be collaborative,for example,one book can be written by many writers,xiaohui is writing the book,and at the same time,xiaoqiang is writing as well.So github can know when and where who change the book,and change where.What's more,github can set permissions,for example,xiaohui is the creater and owner of the book,he wants to invite xiaoqiang to edit the book,so he can give the permission to xiaoqiang,then xiaoqiang have the authority to write this book.As following:
 
-每个仓库都可以选择合作人：
+Each repository can set collaborators：
 
 ![picture122](/assets/图片12.png)
-10.建立了github与gitbook的联系以后，我们就可以安静的写书了，首先我们需要下载Gitbook客户端，在客户端中用markdown编辑既方便又快捷，我们首先需要将我们在云端的test_book这本书下载到本地，编辑后再将test_book上传到云端，下载如下图所示：
+10.After building the connection between github and gitbook,we can edit the book quietly.First,we need to download the Gitbook client,markdown editing in the client is both convenient and fast.We  download the "test_book" to local，edit and then upload,the download is as shown below:
 ![picture120](/assets/图片10.png)
-11.进入这本书以后，就可以编辑了：
+11.After getting into the book,we can edit：
 ![test8](/assets/test8.png)
-12.写完后同步到云端：
+12.After writing,upload it to the cloud：
 ![test9](/assets/test9.png)
-13.同步后，就可以登陆gitbook和github上，发现仓库中的内容发生了变化，所以我们以后就可以在Gitbook客户端上编写，然后上传到云端以网页的形式显示出来。
+13.After uploading,we can open gitbook and github in the website，and find that there are some changes both in github and gitbook,so we can edit the book in Gitbook client and then display them in the website.
 ![picture121](/assets/图片11.png)
-**现在已经将GitBook上书的仓库和GitHub上书的仓库关联起来了，以后既可以通过GitBook写书，也可以将更新提交到GitHub，极大的方便了多人协作撰写一本课本。**
+**Now we have built the connection between Github and Gitbook,then we can edit books through gitbook,and we can also update them to github,this is very convenient.**
 
 **以后就可以通过**[**https:\/\/username.gitbook.io\/仓库名\/**](https://username.gitbook.io/仓库名/)** 在线阅读或下载图书。**
 
-_下面介绍通过GitBook客户端撰写的方法。_
 
