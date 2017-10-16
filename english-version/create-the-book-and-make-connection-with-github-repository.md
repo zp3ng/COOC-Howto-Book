@@ -10,7 +10,7 @@
 choose sign in with Github
 ![picture114](/assets/图片4.png)
 3.After get into the gitbook,we create a book named "test_book",finish the description and then click "Create Book" button.
-![picture115](/assets/图片5.png)
+![](/assets/p5.png)
     
 4.So we create a book,next we should connect with Github to realize collaborative function.We get into the book,click "settings",then copy the book address in the following picture,this address is used to pass the URL of this book to a repository in Github.
 ![picture116](/assets/图片6.png)
