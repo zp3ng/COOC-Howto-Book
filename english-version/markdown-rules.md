@@ -33,26 +33,24 @@
 * The ordered list is represented by the number + the English dot + space
 
 
-## 超链接
-* 直接写 \[文本](你的链接地址)
+## Hyperlink
+* Write directly \[text](your hyperlink address)
 
-* 引用 先定义 [ref_name]:url，然后在需要写入url的地方， 这样使用[文本][ref_name]，通常的ref_name一般用数字表示，这样显得专业
+* Shorthand url：Wrapped with angle brackets url.This is the url anchor text is the url itself
 
-* 简写url：用尖括号包裹url 这样生成的url锚文本就是url本身
+## Insert pictures
+* Single line: !\[alt_text](url "title")
 
-## 插入图片
-* 一行表示: !\[alt_text](url "可选的title")
+* Reference representation: !\[alt_text](id),preordered [id]:url "title"
 
-* 引用表示法: !\[alt_text](id),预先定义 [id]:url "可选title"
+* use directly&lt;&gt;label,this allows you to specify the size of the image
 
-* 直接使用&lt;img&gt;标签，这样可以指定图片的大小尺寸
+## Special symbol
+* Use '\' to escape the markdown symbol in the text
 
-## 特殊符号
-* 用'\'来转义，表示文本中的markdown符号
+* You can use the html tag directly in the text, but pay attention to the use of time, before and after the blank line
 
-* 可以在文本种直接使用html标签，但是要注意在使用的时候，前后加上空行
-
-* 文本前后各加一个符号，表示斜体
+* A symbol is added before and after the text, indicating italic
 
 
 
