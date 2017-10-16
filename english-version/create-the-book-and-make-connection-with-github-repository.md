@@ -33,11 +33,14 @@ Each repository can set collaborators：
 ![](/assets/p11.png)
 
 10.After building the connection between github and gitbook,we can edit the book quietly.First,we need to download the Gitbook client,markdown editing in the client is both convenient and fast.We  download the "test_book" to local，edit and then upload,the download is as shown below:
-![picture120](/assets/图片10.png)
+![](/assets/p12.png)
+
 11.After getting into the book,we can edit：
-![test8](/assets/test8.png)
+![](/assets/p13.png)
+
 12.After writing,upload it to the cloud：
-![test9](/assets/test9.png)
+![](/assets/p14.png)
+
 13.After uploading,we can open gitbook and github in the website，and find that there are some changes both in github and gitbook,so we can edit the book in Gitbook client and then display them in the website.
 ![picture121](/assets/图片11.png)
 **Now we have built the connection between Github and Gitbook,then we can edit books through gitbook,and we can also update them to github,this is very convenient.**
