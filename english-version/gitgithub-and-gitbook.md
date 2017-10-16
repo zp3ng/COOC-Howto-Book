@@ -21,4 +21,20 @@
 
 • In a slightly larger team, it may need a few designers to complete a project, how to unified progress, one is that everyone every day to copy the file together, which requires a lot of time to synchronize the file, obviously not convenient. The other one is leaving the project in one's own computer, when needed then synchronize them through the cloud server, Git is such a so-called distributed system. The benefits are safer and more convenient.
 
-• Then the question comes out,if two people change the same file at the same time,how to solve the conflict? Don't worry, Git will help you compare and tell you where the conflict is, you can make a choice for the conflict somewhere. In addition, the front is not talking about the branch can be derived (Branches) Mody in their respective promotion of the program, respectively, the contents of the different branches, they will not interfere with each other.
+• Then the question comes out,if two people change the same file at the same time,how to solve the conflict? Don't worry, Git will help you compare and tell you where the conflict is, you can make a choice for the conflict or choose which part can be reserved.
+
+###3.The relationship between Github and Gitbook
+
+**Similarities:**
+
+1.Both of them are based on Git,so they have versin control functions.
+
+2.They can add collaborators to their repositories.
+
+For the reasons above:For a Gitbook project, if you do not need someone other than collaborators, and collaborators are familiar with Gitbook and follow the rules, at this time you do not need to use Github
+
+**Differences:**
+
+1.Gitbook focus on book compilation and publishing,version control function is limited.
+
+2.GitHub is a professional code hosting platform with improved version control functions, such as pull request, issues and other functions
