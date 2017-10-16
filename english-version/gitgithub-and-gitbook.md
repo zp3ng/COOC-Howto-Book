@@ -1,4 +1,4 @@
-# 二、Git、Github与Gitbook
+# Chapter 2:、Git、Github与Gitbook
 
 ---
 

@@ -1,4 +1,4 @@
-一、The Introduction of Gitbook
+Chapter 1: The Introduction of Gitbook
 ===
 ---
 

@@ -1,4 +1,4 @@
-# 三、Basic markdown rules
+# Chapter 3: Basic markdown rules
 
 ---
 
