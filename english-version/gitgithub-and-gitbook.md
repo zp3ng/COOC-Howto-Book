@@ -31,10 +31,12 @@
 
 2.They can add collaborators to their repositories.
 
-For the reasons above:For a Gitbook project, if you do not need someone other than collaborators, and collaborators are familiar with Gitbook and follow the rules, at this time you do not need to use Github
+Based on the reasons above:For a Gitbook project, if you do not need someone other than collaborators, and collaborators are familiar with Gitbook and follow the rules, at this time you do not need to use Github
 
 **Differences:**
 
 1.Gitbook focus on book compilation and publishing,version control function is limited.
 
 2.GitHub is a professional code hosting platform with improved version control functions, such as pull request, issues and other functions
+
+Based on the reasons above:For a Gitbook project,if you want to accept the public's contribution, or not familiar with the rules, you should use GitHub's pull request function to achieve the responsibility of the code control.
