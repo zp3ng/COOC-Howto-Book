@@ -40,6 +40,7 @@ The “Configure” and “Repositories” steps we choose to "Skip"
 
 11.Click the right button "New pull request"
 
+
 12.Click "Create pull request"
 ![picture131](/assets/图片21.png)
 

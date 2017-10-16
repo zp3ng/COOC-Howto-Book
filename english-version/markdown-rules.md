@@ -28,9 +28,9 @@
 ## List
 * using *,+,- and add a space to show a
 
-* 可以支持嵌套
+* Can support nesting
 
-* 有序列表用数字+英文点+空格来表示
+* The ordered list is represented by the number + the English dot + space
 
 
 ## 超链接
