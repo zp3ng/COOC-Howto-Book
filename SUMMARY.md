@@ -16,5 +16,6 @@
 * [English Version](english-version.md)
   * [Introduction of Gitbook](english-version/introduction-of-gitbook.md)
   * [Git,Github and Gitbook](english-version/gitgithub-and-gitbook.md)
+  * [Markdown rules](english-version/markdown-rules.md)
 * [嵌入视频、讲义等多媒体内容](content/gitbook/windows/嵌入视频、讲义等多媒体内容.md)
 
