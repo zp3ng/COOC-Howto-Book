@@ -2,13 +2,13 @@
 
 ---
 
-#### We know that the github is open source，so you create a book（a repository）,anyone can see it on the website.If you find some problems about other people's code or you want to help others edit the book.You can fork them to your own github（拷贝到自己的github中）下来，改好后，给作者发送一个合并请求，如果作者发现你做的确实是对的，就可以合并你的内容，实现协同合作功能。
+#### We know that the github is open source，so you create a book（a repository）,anyone can see it on the website.If you find some problems about other people's code or you want to help others edit the book.You can fork them to your own github，after some changes，Send a merge request to the author，if the author find you are right，he can merge your request to achieve collaborative cooperation function.
 
-我们还以test_book这本书为例，这本书的创建过程我们已经在上一节中说过了，下面我们以**weixh121001**这个github账号来做学生：
+We can use the "test_book" as an emample,the creation of the book has teached in the previous section.Now the example is a teacher wants to create a book named "test_book",so he arranges the task to his students,for the safety,students should fork the repository.We use **yinhang2** as the "teacher" and use **weixh121001** as the student：
 
-+ fork刚才我们创建的test_repository仓库。
-+ 下载个Gitbook客户端编书
-+ 发出pull request申请
++ fork the test_repository
++ download Gitbook client and edit the book
++ pull request to the teacher
 
 1.进入老师给的test_repository仓库地址，然后fork，“Fork”就是把一个别人的仓库复制到自己的帐户中来。
 
