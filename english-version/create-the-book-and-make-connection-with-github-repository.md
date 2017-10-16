@@ -45,6 +45,5 @@ Each repository can set collaborators：
 ![picture121](/assets/图片11.png)
 **Now we have built the connection between Github and Gitbook,then we can edit books through gitbook,and we can also update them to github,this is very convenient.**
 
-**以后就可以通过**[**https:\/\/username.gitbook.io\/仓库名\/**](https://username.gitbook.io/仓库名/)** 在线阅读或下载图书。**
 
 
