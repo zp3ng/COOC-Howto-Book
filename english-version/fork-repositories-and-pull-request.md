@@ -2,7 +2,7 @@
 
 ---
 
-#### We know that the github is open source，so you create a book（a repository）,anyone can see it on the website.If you find some problems about other people's code.我们如果发现别人的代码有问题，或者想帮助别人一起出书，可以将别人的代码fork（拷贝到自己的github中）下来，改好后，给作者发送一个合并请求，如果作者发现你做的确实是对的，就可以合并你的内容，实现协同合作功能。
+#### We know that the github is open source，so you create a book（a repository）,anyone can see it on the website.If you find some problems about other people's code or you want to help others edit the book.You can fork them to your own github（拷贝到自己的github中）下来，改好后，给作者发送一个合并请求，如果作者发现你做的确实是对的，就可以合并你的内容，实现协同合作功能。
 
 我们还以test_book这本书为例，这本书的创建过程我们已经在上一节中说过了，下面我们以**weixh121001**这个github账号来做学生：
 
