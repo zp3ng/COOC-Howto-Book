@@ -10,50 +10,47 @@ We can use the "test_book" as an emample,the creation of the book has teached in
 + download Gitbook client and edit the book
 + pull request to the teacher
 
-1.进入老师给的test_repository仓库地址，然后fork，“Fork”就是把一个别人的仓库复制到自己的帐户中来。
+1.Get into the test_repository address，then fork，“Fork” is to copy someone else's repository to his own account.
 
 https://github.com/yinhang2/test_repository
 
 
 ![picture124](/assets/图片14.png)
-2.下载并安装GitHub客户端：https://desktop.github.com
+2.Download and install Github client：https://desktop.github.com
 
-3.打开GitHub客户端，首次打开需登录并初始化，步骤如下
-![picture125](/assets/图片15.png)
+3.Open github client，log in and waiting for initialization,proceed as follows
 
-接下来的“Configure”和“Repositories”步骤全部 选择“Skip”
+The “Configure” and “Repositories” steps we choose to "Skip"
 
-4.登陆成功后点击左上角的“+”，后选择“clone”，然后选中“test_repository”仓库，然后点击下面的“Clone test_repository”
+4.Click on the top left corner of the "+" after logging in，then click "clone",choose the "test_repository" repository，after that click “Clone test_repository”
 ![picture126](/assets/图片16.png)
 
-5.接下来在弹出的对话框中选择仓库在电脑上保存的位置，请务必记住这个位置，然后确定，接下来等正在clone的页面消失即可关闭GitHub客户端。
+5.Next, in the pop-up dialog box,select the location where the repository is saved on the computer.Be sure to remember this location.Then wait for the clone page to disappear to close the GitHub client.
 ![picture127](/assets/图片17.png)
 
-6.进入自己的Gitbook客户端，点击左上角的“Import”，在弹出的对话框中选择刚才用GitHub客户端clone的test_repository文件夹并打开
-![picture128](/assets/图片18.png)
+6.Get into the Gitbook client,click on the top left corner“Import”，In the pop-up dialog box, select GitHub client clone test_repository folder just now and open![picture128](/assets/图片18.png)
 
-7.此时test仓库便会出现在GitBook首页中，点击它并可以打开它完成相应作业
+7.At this point the test repository will appear in the GitBook home page,Click it and open it to complete the corresponding job
 
-8.作业完成后先点击左上角“Save”，然后再点击Save右边出现的☁️按钮
+8.After fininshing the job,click on the top right corner of the“Save”，and then click ☁️ button.
 
 ![picture129](/assets/图片19.png)
 
-9.在接下来弹出的对话框中输入GitHub的用户名和密码，后点击“Sync”，此时便将你的作业同步到你账户中的test_repository仓库了，接下来还要从你的仓库中发送pull request
-
-10.打开GitHub，进入学生的test_repository仓库，然后点击“Pull requests”
+9.Then in the dialog,fill in the github username and password,and click "Sync",at this time ,your job is synchronized in your "test_repository" repository,you need to pull request to the teacher from your repository.
+10.Open GitHub，get into the student's "test_repository" repository, then click "Pull requests"
 ![picture130](/assets/图片20.png)
 
-11.点击右边的“New pull request”
+11.Click the right button "New pull request"
 
-12.点击“Create pull request”
+12.Click "Create pull request"
 ![picture131](/assets/图片21.png)
 
-13.在展开的页面中“Title”处填写作业完成的大概情况，在“Leave a comment”处填写详细，后点击下方的“Create pull request”，至此作业提交完成。
+13.In the following page,write general information about your job,then click "Create pull request",the job commition is done.
 ![picture132](/assets/图片22.png)
 
-这时老师在Github上就会得到pull request信息，点击pull request，点进test仓库
+Now the teacher will see the pull request information from Github,the teacher can click "pull request" into the "test_repository" repository.
 ![picture133](/assets/图片23.png)
-这时老师看了下信息，如果可以合并，就点击绿色按钮 Merge pull request，也可以回复Comment
+The teacher see the information，if it can be merged,then click the green button "Merge pull request",and can also leave some comment.
 ![picture134](/assets/图片24.png)
 
 
