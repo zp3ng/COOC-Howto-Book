@@ -4,7 +4,7 @@
 
 #### We know that the github is open source，so you create a book（a repository）,anyone can see it on the website.If you find some problems about other people's code or you want to help others edit the book.You can fork them to your own github，after some changes，send a merge request to the author，if the author find you are right，he can merge your request to achieve collaborative cooperation function.
 
-We can use the "test_book" as an emample,the creation of the book has teached in the previous section.Now the example is a teacher wants to create a book named "test_repository",so he arranges the task to his students,for the safety,students should fork the repository.We use **yinhang2** as the "teacher" and use **weixh121001** as the student：
+We can use the "test_repository" as an emample,the creation of the book has teached in the previous section.Now the example is a teacher wants to create a book named "test_repository",so he arranges the task to his students,for the safety,students should fork the repository.We use **yinhang2** as the "teacher" and use **weixh121001** as the student：
 
 + fork the test_repository
 + download Gitbook client and edit the book
