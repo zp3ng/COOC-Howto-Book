@@ -14,7 +14,7 @@ choose sign in with Github
 
 ![picture114](/assets/图片4.png)
 
-3.After get into the gitbook,we create a book named "test_book",finish the description and then click "Create Book" button.
+3.After get into the gitbook,we create a book named "test_repository",finish the description and then click "Create Book" button.
 
 ![](/assets/p5.png)
     
@@ -44,7 +44,7 @@ Each repository can set collaborators：
 
 ![](/assets/p11.png)
 
-10.After building the connection between github and gitbook,we can edit the book quietly.First,we need to download the Gitbook client,markdown editing in the client is both convenient and fast.We  download the "test_book" to local，edit and then upload,the download is as shown below:
+10.After building the connection between github and gitbook,we can edit the book quietly.First,we need to download the Gitbook client,markdown editing in the client is both convenient and fast.We  download the "test_repository" to local，edit and then upload,the download is as shown below:
 ![](/assets/p12.png)
 
 11.After getting into the book,we can edit：
