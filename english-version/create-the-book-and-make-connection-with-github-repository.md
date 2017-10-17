@@ -6,7 +6,7 @@
 
 ![picture112](/assets/图片2.png)
 
-2.If you have the Github account,you don't need to sign up for a  new Gitbook account.[https://www.gitbook.com/](http://www.gitbook.com/),Click the "sign up" button on the top right corner.
+2.If you have the Github account,you don't need to sign up for a  new Gitbook account.[https://www.gitbook.com/](http://www.gitbook.com/),click the "sign up" button on the top right corner.
 
 ![picture113](/assets/图片3.png)
 
